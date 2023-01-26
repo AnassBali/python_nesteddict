@@ -1,9 +1,9 @@
-leden = {"lid 1":{"naam":"Jann","stad":"genk"},
-         "lid 2":{"naam":"Anne","stad":"hasselt"},
-         "lid 3":{"naam":"bert","stad":"genk"},
-         "lid 4":{"naam":"frank","stad":"hasselt"},
-         "lid 5":{"naam":"peter","stad":"genk"},
-         "lid 6":{"naam":"karel","stad":"gent"}
+leden = {"lid 1":{"naam":"John","stad":"Amsterdam"},
+         "lid 2":{"naam":"Anne","stad":"Utrecht"},
+         "lid 3":{"naam":"Lisa","stad":"Groningen"},
+         "lid 4":{"naam":"Mark","stad":"Dordrecht"},
+         "lid 5":{"naam":"Frank","stad":"Rotterdam"},
+         "lid 6":{"naam":"Peter","stad":"Eindhoven"}
          }
 
 filter = {}
